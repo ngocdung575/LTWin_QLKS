@@ -1,1 +1,12 @@
 D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\bin\Debug\LTWin_QLKS.exe.config
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\bin\Debug\LTWin_QLKS.exe
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\bin\Debug\LTWin_QLKS.pdb
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\bin\Debug\LTWin_QLKS.xml
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.FrmMain.resources
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.Resources.resources
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.vbproj.GenerateResource.Cache
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.exe
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.xml
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.pdb
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.FrmSearch_Phong.resources
+D:\Study\HK6\LTWin\DOAN_QLKS\trunk\LTWin_QLKS\LTWin_QLKS\obj\Debug\LTWin_QLKS.FrmSearch_KH.resources
